@@ -1,0 +1,43 @@
+# Web of Science 文献数据分析报告
+
+## 1. 基础概况
+- **文献总数**: 50 篇
+- **时间范围**: 2010 - 2025
+- **分析领域**: 公共艺术、可持续发展、公共卫生、计算机辅助设计
+
+## 2. 发文年份趋势
+| 年份 | 发文量 (篇) |
+| :--- | :--- |
+| 2010 | 2 |
+| 2012 | 1 |
+| 2015 | 1 |
+| 2017 | 3 |
+| 2019 | 3 |
+| 2020 | 1 |
+| 2021 | 3 |
+| 2022 | 17 (高峰) |
+| 2023 | 7 |
+| 2024 | 7 |
+| 2025 | 5 (前瞻) |
+
+## 3. 核心期刊分布 (Top 10)
+1. **SUSTAINABILITY** (6 篇)
+2. **JOURNAL OF ENVIRONMENTAL AND PUBLIC HEALTH** (4 篇)
+3. **SCIENTIFIC PROGRAMMING** (4 篇)
+4. **AGRO FOOD INDUSTRY HI-TECH** (3 篇)
+5. **SCIENTIFIC REPORTS** (3 篇)
+6. **REPRODUCTIVE BIOMEDICINE ONLINE** (2 篇)
+7. **MATHEMATICAL PROBLEMS IN ENGINEERING** (2 篇)
+8. **TRANSPORTATION RESEARCH RECORD** (1 篇)
+9. **JOURNAL OF ASIAN ARCHITECTURE AND BUILDING ENGINEERING** (1 篇)
+10. **AMERICAN JOURNAL OF PUBLIC HEALTH** (1 篇)
+
+## 4. 高被引论文 (Top 5)
+1. **[38次引用]** *The arts in public health policy: progress and opportunities* (2023) - LANCET PUBLIC HEALTH
+2. **[30次引用]** *Research on the Application of Synthetic Polymer Materials in Contemporary Public Art* (2022) - POLYMERS
+3. **[17次引用]** *Urban Public Space as a Didactic Platform: Raising Awareness of Climate Change through Experiencing Arts* (2021) - SUSTAINABILITY
+4. **[13次引用]** *Walking in Tandem with the City: Exploring the Influence of Public Art on Encouraging Urban Pedestrianism...* (2024) - SUSTAINABILITY
+5. **[12次引用]** *Transformation of Children's Paintings into Public Art to Improve Public Spaces and Enhance People's Happiness* (2022) - INT. J. ENVIRON. RES. PUB. HEALTH
+
+## 5. 结论
+研究显示，2022年是该领域的关键转折点，发文量显著增加。目前的研究重点已从纯艺术审美转向艺术在公共卫生与可持续发展中的社会功能。
